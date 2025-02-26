@@ -9,18 +9,9 @@ This project simulates the **Three-Body Problem**, a complex orbital mechanics c
 3. **Visualization**: Plots the paths of the celestial bodies in real time, showing their chaotic motion.
 
 
-## 🎥 Adding a Video to README
-If you have a demo video, you can link it here!
 
 
-
-### Method 2: Direct Video File in Repo
-If your video is in your repository (e.g., `video.mp4` in the root folder), use:
-
-<video width="600" controls>
-  <source src="3_body_simulation.mp4" type="3_body_simulation/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/36cfebc2-cd77-43cc-8907-c9d4228e4b23
 
 
 Enjoy exploring the universe! 🌠
