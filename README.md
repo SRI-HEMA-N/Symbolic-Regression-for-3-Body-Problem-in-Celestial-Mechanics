@@ -18,7 +18,7 @@ If you have a demo video, you can link it here!
 If your video is in your repository (e.g., `video.mp4` in the root folder), use:
 
 <video width="600" controls>
-  <source src="3_body_simulation.mp4" type="video/mp4">
+  <source src="3_body_simulation.mp4" type="3_body_simulation/mp4">
   Your browser does not support the video tag.
 </video>
 
